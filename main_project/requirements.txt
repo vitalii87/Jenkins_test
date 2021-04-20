@@ -15,7 +15,7 @@ more-itertools==4.1.0
 parse==1.8.2
 parse-type==0.4.2
 pluggy==0.6.0
-py==1.5.3
+py==1.10.0
 PyMySQL==0.8.0
 pytest==3.5.0
 pytest-base-url==1.4.1
