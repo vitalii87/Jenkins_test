@@ -9,7 +9,7 @@ crayons==0.1.2
 enum34==1.1.6
 glob2==0.6
 idna==2.6
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 more-itertools==4.1.0
 parse==1.8.2
